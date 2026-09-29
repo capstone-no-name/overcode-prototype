@@ -1,0 +1,5 @@
+{
+  "server": "maincloud",
+  "module-path": "./spacetimedb",
+  "dev": { "run": "bun run dev" }
+}
